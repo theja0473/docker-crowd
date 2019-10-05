@@ -20,7 +20,7 @@ ENV SHELL  "/bin/bash"
 ENV TZ     "UTC"
 
 ENV OPENJDK_RELEASE              "8"
-ENV CROWD_VERSION                "3.7.1"
+ENV CROWD_VERSION                "3.6.0"
 ENV CROWD_OWNER                  "crowd"
 ENV CROWD_GROUP                  "crowd"
 ENV CROWD_HOME                   "/var/atlassian/application-data/crowd"
